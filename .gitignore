@@ -28,6 +28,10 @@ frontend/.env
 !.env.example
 !backend/.env.example
 !frontend/.env.example
+
+# Submission Packages
+Ananya_Yadav_*
+*.zip
 venv/
 .venv/
 ENV/
